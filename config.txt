@@ -1,5 +1,5 @@
 owner=455202482168004609
-prefix=+
+prefix=.
 game=The Gamers
 stayinchannel=true
 songinstatus=false
