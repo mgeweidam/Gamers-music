@@ -3,4 +3,4 @@ prefix=.
 game=The Gamers
 stayinchannel=true
 songinstatus=false
-token=NTk2MDY4MDE3MjI2MzgzMzcz.XR0KgA.5m6Ln6p5x-4fnXdiWcQkYUq12nE
+token=NTk2MDY4MDE3MjI2MzgzMzcz.XSXK-Q.7rKDunulS4jErJgJGmXnThXdEEk
